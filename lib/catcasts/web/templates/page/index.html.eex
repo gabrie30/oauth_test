@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
+  <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
+</div>
+
+<a href="/auth/google?scope=email%20profile" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a>
+</div>
